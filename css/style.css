@@ -1,0 +1,12 @@
+h2{
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.jumbotron{
+  background-color: #556B2F;
+  padding:10em;
+  Color:white;
+}
+.column-md-6{
+  width: 50%;
+}
